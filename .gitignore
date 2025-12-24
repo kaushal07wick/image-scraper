@@ -13,7 +13,7 @@ __pycache__/
 .venv/
 venv/
 image_scrape_report.json
-
+downloaded_images/upslash_com
 # Distribution / packaging
 .Python
 build/
