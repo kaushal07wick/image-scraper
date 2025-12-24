@@ -1,0 +1,9 @@
+
+beautifulsoup4
+bs4
+firecrawl-py
+psutil
+python-dotenv
+requests
+selenium
+
