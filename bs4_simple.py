@@ -1,20 +1,25 @@
-import requests 
-from bs4 import BeautifulSoup 
+import requests
+from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-def getdata(url): 
-    r = requests.get(url) 
-    return r.text 
+# list of startups | you can choose any u want
+urls = [
+    "https://lovable.dev/",
+    "https://www.greptile.com/",
+    "https://cartesia.ai/sonic",
+    "https://exa.ai/",
+    "https://www.raindrop.ai/"
+]
 
-url = "https://www.firecrawl.dev/"
-htmldata = getdata(url) 
-soup = BeautifulSoup(htmldata, 'html.parser') 
+for url in urls:
+    print(f"\n== {url} ==")
+    try:
+        html = requests.get(url, timeout=10).text
+        soup = BeautifulSoup(html, "html.parser")
 
-for item in soup.find_all('img'):
-    # Get the src attribute
-    img_src = item.get('src')
-    
-    if img_src:
-        # Convert relative URLs to absolute URLs
-        absolute_url = urljoin(url, img_src)
-        print(absolute_url)
+        for img in soup.find_all("img"):
+            src = img.get("src")
+            if src:
+                print(urljoin(url, src))
+    except Exception as e:
+        print("Error:", e)
