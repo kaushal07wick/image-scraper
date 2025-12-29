@@ -1,7 +1,7 @@
 import os, requests
 from dotenv import load_dotenv; load_dotenv()
 
-urls = ["https://lovable.dev/", "https://www.greptile.com/", "https://cartesia.ai/sonic", "https://exa.ai/", "https://www.raindrop.ai/"]
+urls = ["https://lovable.dev/"]
 
 for url in urls:
     r = requests.post(

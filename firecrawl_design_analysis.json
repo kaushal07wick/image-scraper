@@ -1,0 +1,726 @@
+[
+  {
+    "url": "https://lovable.dev/",
+    "success": true,
+    "time_seconds": 23.14,
+    "method": "firecrawl",
+    "analysis": {
+      "sections": [
+        {
+          "title": "Hero",
+          "purpose": "Introduce the brand and primary service offered, capturing user attention immediately.",
+          "visual_hierarchy": "The prominent headline is the first eye catcher, followed by a striking hero image and primary call-to-action button.",
+          "key_elements": [
+            "Main headline",
+            "Subheadline",
+            "Call-to-action button",
+            "Hero image"
+          ],
+          "image_urls": [
+            "https://lovable.dev/gift-cards/pill-icon.png",
+            "https://lovable.dev/_next/image?url=%2Ftemplates%2Fecommerce-store-1-screenshot.webp&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Product Showcase",
+          "purpose": "Display various templates and features to highlight the versatility of the service.",
+          "visual_hierarchy": "Template images are prominently displayed, with titles and brief descriptions underneath. Each template screenshot is clickable.",
+          "key_elements": [
+            "Template images",
+            "Template titles",
+            "Short descriptions",
+            "Clickable links"
+          ],
+          "image_urls": [
+            "https://lovable.dev/_next/image?url=%2Ftemplates%2Fecommerce-store-1-screenshot.webp&w=3840&q=75",
+            "https://lovable.dev/_next/image?url=%2Ftemplates%2Farchitect-portfolio-1-screenshot.webp&w=3840&q=75",
+            "https://lovable.dev/_next/image?url=%2Ftemplates%2Fpersonal-blog%2Fscreenshot.webp&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Features",
+          "purpose": "Detail specific functions and advantages of the service, addressing potential user concerns.",
+          "visual_hierarchy": "Bullet points or icons denoting each feature catch attention, with supporting text to give context.",
+          "key_elements": [
+            "Feature icons",
+            "Feature descriptions",
+            "Supporting images/text blocks"
+          ],
+          "image_urls": [
+            "https://lovable.dev/_next/image?url=%2Ftemplates%2Fvisual-landing-page-1-screenshot.webp&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Social Proof",
+          "purpose": "Build trust and credibility through testimonials and statistics from users or customers.",
+          "visual_hierarchy": "Testimonials are typically featured prominently, using quotes and author highlights.",
+          "key_elements": [
+            "Customer logos",
+            "Testimonials",
+            "Statistics",
+            "User reviews"
+          ],
+          "image_urls": [
+            "https://lovable.dev/_next/image?url=%2Ftemplates%2Flifestyle-blog-3-screenshot.webp&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Pricing",
+          "purpose": "Clearly outline the different pricing tiers and plans available to potential customers for understanding what fits their needs.",
+          "visual_hierarchy": "Pricing plans are presented in tables or cards, enabling quick comparison.",
+          "key_elements": [
+            "Pricing tables",
+            "Plan features",
+            "Call-to-action buttons"
+          ],
+          "image_urls": [
+            "https://lovable.dev/_next/image?url=%2Ftemplates%2Fevent-platform-1-screenshot.webp&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Call to Action",
+          "purpose": "Encourage the user to take action, such as signing up or contacting the business for more information.",
+          "visual_hierarchy": "The button is prominently displayed, often colored against a contrasting background for attention.",
+          "key_elements": [
+            "Call-to-action button",
+            "Short messaging"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Footer",
+          "purpose": "Provide additional navigation options and secondary information about the company.",
+          "visual_hierarchy": "Contact information and helpful links are arranged logically, with a design that maintains clarity without overwhelming the user.",
+          "key_elements": [
+            "Navigation links",
+            "Contact information",
+            "Social media links"
+          ],
+          "image_urls": []
+        }
+      ],
+      "section_count": 7,
+      "primary_message": "Empowering users to build applications and websites simply through AI-assisted tools.",
+      "target_audience": "Entrepreneurs, small to medium business owners, and individuals looking to create websites or apps without extensive technical skills.",
+      "design_philosophy": "Minimalist and functional, focusing on clarity and ease of use."
+    },
+    "branding": {
+      "color_scheme": "light",
+      "primary_color": "#FBD5F4",
+      "secondary_color": "N/A",
+      "accent_color": "#6B7280",
+      "background_color": "#FCFBF8",
+      "all_colors": {
+        "primary": "#FBD5F4",
+        "accent": "#6B7280",
+        "background": "#FCFBF8",
+        "textPrimary": "#1C1C1C",
+        "link": "#6B7280"
+      },
+      "primary_font": "CameraPlainVariable",
+      "heading_font": "CameraPlainVariable",
+      "code_font": "N/A",
+      "all_fonts": {
+        "primary": "CameraPlainVariable",
+        "heading": "CameraPlainVariable"
+      },
+      "font_sizes": {
+        "h1": "48px",
+        "h2": "48px",
+        "body": "20px"
+      },
+      "font_weights": {},
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "6px"
+      },
+      "components": {
+        "input": {
+          "background": "transparent",
+          "textColor": "#1C1C1C",
+          "borderColor": null,
+          "borderRadius": "6px",
+          "borderRadiusCorners": {
+            "topLeft": "6px",
+            "topRight": "6px",
+            "bottomRight": "6px",
+            "bottomLeft": "6px"
+          },
+          "shadow": "none"
+        }
+      }
+    },
+    "total_images": 8,
+    "color_count": 5,
+    "font_count": 2
+  },
+  {
+    "url": "https://www.greptile.com/",
+    "success": true,
+    "time_seconds": 24.63,
+    "method": "firecrawl",
+    "analysis": {
+      "sections": [
+        {
+          "title": "Hero",
+          "purpose": "The Hero section captures users' attention immediately, presenting the core offering of Greptile\u2014AI-powered code reviews. It sets the value proposition for potential customers right from the start.",
+          "visual_hierarchy": "The main headline is the focal point, followed by the subheadline and call-to-action button ('Try For Free'), which are designed to draw attention to the sign-up process.",
+          "key_elements": [
+            "Main headline",
+            "Subheadline",
+            "Call to Action button",
+            "Image of the AI tool"
+          ],
+          "image_urls": [
+            "https://www.greptile.com/logo-only.svg"
+          ]
+        },
+        {
+          "title": "Product Showcase",
+          "purpose": "This section demonstrates how Greptile works through various visuals and descriptions of functionality, showcasing its capabilities such as context-aware comments and summaries.",
+          "visual_hierarchy": "Images and headings for each feature are presented prominently, with descriptions beneath, guiding users through the product's functionalities in a logical flow.",
+          "key_elements": [
+            "Feature headings",
+            "Feature descriptions",
+            "Images depicting features",
+            "Call to Action links"
+          ],
+          "image_urls": [
+            "https://www.greptile.com/_next/image?url=%2Ffeatures%2Fcustom-rules%2Fimage0.png&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Features",
+          "purpose": "Detailed breakdown of Greptile's unique features and capabilities, influencing potential buyers by addressing their specific needs.",
+          "visual_hierarchy": "Feature titles are bold and easily discernable, followed by descriptive text and supporting images, ensuring clarity and visual appeal.",
+          "key_elements": [
+            "Feature titles",
+            "Images",
+            "Descriptive text"
+          ],
+          "image_urls": [
+            "https://www.greptile.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjames-reggio.e9dddb45.png&w=96&q=75"
+          ]
+        },
+        {
+          "title": "Social Proof",
+          "purpose": "Provides testimonials and logos of reputable companies using Greptile. This builds trust and validation for potential users who may be skeptical.",
+          "visual_hierarchy": "Customer logos are displayed prominently, followed by testimonials in a smaller typeface to enhance credibility without overshadowing the logos.",
+          "key_elements": [
+            "Customer logos",
+            "Testimonials",
+            "Photographs of users"
+          ],
+          "image_urls": [
+            "https://www.greptile.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbrex-logo.8288b64e.webp&w=48&q=75"
+          ]
+        },
+        {
+          "title": "Pricing",
+          "purpose": "Outlines various pricing plans for different user scenarios, aiding potential customers in making informed decisions based on their team's needs.",
+          "visual_hierarchy": "Pricing information is laid out in a table or list format, with clear distinctions between different plans and a highlighted 'most popular' option, if any.",
+          "key_elements": [
+            "Pricing table",
+            "Plan descriptions",
+            "Call to Action button"
+          ],
+          "image_urls": []
+        }
+      ],
+      "section_count": 5,
+      "primary_message": "Greptile provides advanced AI-driven code reviews that enhance software teams' efficiency and code quality, ultimately reducing merge times and improving software delivery.",
+      "target_audience": "Developers, engineering managers, and technical leads looking for effective code review tools to streamline their workflows.",
+      "design_philosophy": "The design philosophy is minimalist yet informative, focusing on clarity and ease of use for technical audiences while showcasing cutting-edge technology."
+    },
+    "branding": {
+      "color_scheme": "light",
+      "primary_color": "#107A4D",
+      "secondary_color": "N/A",
+      "accent_color": "#06281B",
+      "background_color": "#F1EFEB",
+      "all_colors": {
+        "primary": "#107A4D",
+        "accent": "#06281B",
+        "background": "#F1EFEB",
+        "textPrimary": "#06281B",
+        "link": "#06281B"
+      },
+      "primary_font": "Inter",
+      "heading_font": "tasaOrbiter",
+      "code_font": "N/A",
+      "all_fonts": {
+        "primary": "Inter",
+        "heading": "tasaOrbiter"
+      },
+      "font_sizes": {
+        "h1": "96px",
+        "h2": "48px",
+        "body": "14px"
+      },
+      "font_weights": {},
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "0px"
+      },
+      "components": {
+        "input": {
+          "background": "#F1EFEB",
+          "textColor": "#2A2A2A",
+          "borderColor": "#CCCCCC",
+          "borderRadius": "0px",
+          "borderRadiusCorners": {
+            "topLeft": "0px",
+            "topRight": "0px",
+            "bottomRight": "0px",
+            "bottomLeft": "0px"
+          },
+          "shadow": "none"
+        }
+      }
+    },
+    "total_images": 4,
+    "color_count": 5,
+    "font_count": 2
+  },
+  {
+    "url": "https://cartesia.ai/sonic",
+    "success": true,
+    "time_seconds": 31.38,
+    "method": "firecrawl",
+    "analysis": {
+      "sections": [
+        {
+          "title": "Hero",
+          "purpose": "To immediately introduce Sonic-3 and its unique value proposition as a advanced text-to-speech model, capturing visitor interest.",
+          "visual_hierarchy": "The headline is prominently displayed and is immediately eye-catching. The subheading conveys a compelling aspect of the product, followed by the call to action to 'Try for free'.",
+          "key_elements": [
+            "Main headline text",
+            "Subheadline text",
+            "Call to Action button (Try for free)",
+            "Hero image"
+          ],
+          "image_urls": [
+            "https://framerusercontent.com/images/TqVrBUqckO5DeWkcLN1eqHyG14.webp?width=1280&height=336"
+          ]
+        },
+        {
+          "title": "Product Showcase",
+          "purpose": "To demonstrate the capabilities and versatility of Sonic-3 through various use cases and industries it can serve.",
+          "visual_hierarchy": "Images of different applications are laid out in a grid, making them easy to scan. Each use case has its own supportive text, emphasizing what Sonic-3 can achieve in those fields.",
+          "key_elements": [
+            "Application images",
+            "Supporting text for each use case",
+            "Call to action links"
+          ],
+          "image_urls": [
+            "https://framerusercontent.com/images/E5IyJsLcnX2wc8r3Bz5VZsdcXo.png?scale-down-to=512&width=802&height=682",
+            "https://framerusercontent.com/images/ZFiUWP5DfBvKMsphsbUxjPVU.webp?scale-down-to=512&width=856&height=550",
+            "https://framerusercontent.com/images/eV88z6w6A2Zj56pIkk9ZR35wCo.png?scale-down-to=512&width=856&height=550"
+          ]
+        },
+        {
+          "title": "Features",
+          "purpose": "To highlight key features of Sonic-3 that set it apart from competitors, focusing on its unique capabilities.",
+          "visual_hierarchy": "Features are listed with a clear numbering system indicating importance. Key features are bolded to draw attention, with visuals to support descriptions.",
+          "key_elements": [
+            "Feature list",
+            "Descriptive text",
+            "Visual icons"
+          ],
+          "image_urls": [
+            "https://framerusercontent.com/images/54ap53nhPTzvcaoNNzpekYwU.png?width=1022&height=16"
+          ]
+        },
+        {
+          "title": "Social Proof",
+          "purpose": "To build credibility and trust through testimonials from industry leaders and notable clients that emphasize Sonic-3's effectiveness.",
+          "visual_hierarchy": "Testimonials are presented with larger images of customers and quotes emphasized in separate blocks to distinguish them from other content.",
+          "key_elements": [
+            "Testimonial quotes",
+            "Customer logos",
+            "Call to action links"
+          ],
+          "image_urls": [
+            "https://framerusercontent.com/images/4F9KI3dsYVWvKDPDI7bA7TF59wk.webp?width=438&height=645",
+            "https://framerusercontent.com/images/QUT3CfvvmhJwVlQs4vEt2yDIMGo.webp?width=657&height=968"
+          ]
+        },
+        {
+          "title": "Pricing",
+          "purpose": "To inform users about different pricing plans available for Sonic-3, facilitating purchase decisions.",
+          "visual_hierarchy": "Pricing tiers are clearly demarcated, with the most popular option highlighted. Key features of each plan are listed for quick comparison.",
+          "key_elements": [
+            "Pricing table",
+            "Plan descriptions",
+            "Call to action buttons"
+          ],
+          "image_urls": [
+            "N/A"
+          ]
+        },
+        {
+          "title": "Call to Action",
+          "purpose": "To encourage visitors to engage with the product through sign-ups or inquiries, pushing the conversion funnel.",
+          "visual_hierarchy": "The call to action is prominently displayed at the end of crucial sections, ensuring it remains the focal point for conversion after providing information.",
+          "key_elements": [
+            "Call to Action button (Start for Free)",
+            "Contact Sales buttons"
+          ],
+          "image_urls": [
+            "N/A"
+          ]
+        },
+        {
+          "title": "Footer",
+          "purpose": "To provide visitors with additional navigation links, company information, and legal resources.",
+          "visual_hierarchy": "Navigation links are grouped logically, and company info is presented succinctly to encourage further exploration.",
+          "key_elements": [
+            "Quick links",
+            "Company contact information",
+            "Legal links"
+          ],
+          "image_urls": [
+            "N/A"
+          ]
+        }
+      ],
+      "section_count": 7,
+      "primary_message": "Sonic-3 is the world\u2019s most advanced text-to-speech system, designed for seamless integration and real-time interaction, catering to diverse applications across industries.",
+      "target_audience": "Developers, product managers, and companies looking for advanced text-to-speech solutions.",
+      "design_philosophy": "Minimalist and functional, emphasizing clarity and user engagement, thus facilitating the user's journey through the design."
+    },
+    "branding": {
+      "color_scheme": "dark",
+      "primary_color": "#0000EE",
+      "secondary_color": "N/A",
+      "accent_color": "#44CCFF",
+      "background_color": "#181818",
+      "all_colors": {
+        "primary": "#0000EE",
+        "accent": "#44CCFF",
+        "background": "#181818",
+        "textPrimary": "#181818",
+        "link": "#44CCFF"
+      },
+      "primary_font": "sans-serif",
+      "heading_font": "Inter Display",
+      "code_font": "N/A",
+      "all_fonts": {
+        "primary": "sans-serif",
+        "heading": "Inter Display"
+      },
+      "font_sizes": {
+        "h1": "68px",
+        "h2": "48px",
+        "body": "13px"
+      },
+      "font_weights": {},
+      "spacing": {
+        "baseUnit": 12,
+        "borderRadius": "0px"
+      },
+      "components": {
+        "input": {
+          "background": "transparent",
+          "textColor": null,
+          "borderColor": null,
+          "borderRadius": "0px",
+          "borderRadiusCorners": {
+            "topLeft": "0px",
+            "topRight": "0px",
+            "bottomRight": "0px",
+            "bottomLeft": "0px"
+          },
+          "shadow": "none"
+        }
+      }
+    },
+    "total_images": 10,
+    "color_count": 5,
+    "font_count": 2
+  },
+  {
+    "url": "https://exa.ai/",
+    "success": true,
+    "time_seconds": 21.48,
+    "method": "firecrawl",
+    "analysis": {
+      "sections": [
+        {
+          "title": "Hero",
+          "purpose": "To present the main value proposition and encourage conversions.",
+          "visual_hierarchy": "The background image and the primary call-to-action button are most prominent. The headline text is also eye-catching.",
+          "key_elements": [
+            "Main headline",
+            "Subheading",
+            "Call-to-action button",
+            "Background image"
+          ],
+          "image_urls": [
+            "https://exa.ai/_next/image?url=%2Fimages%2Fhomepage-v3%2Fapi-graphic-new.png&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Product Showcase",
+          "purpose": "Demonstrates product capabilities and shows practical use cases.",
+          "visual_hierarchy": "Product images with captions and buttons are displayed prominently in a grid layout.",
+          "key_elements": [
+            "Product images",
+            "Explanatory text",
+            "Call-to-action links"
+          ],
+          "image_urls": [
+            "https://exa.ai/_next/image?url=%2Fimages%2Fhomepage-v3%2Fapi-endpoints%2Fsearch.png&w=1200&q=75"
+          ]
+        },
+        {
+          "title": "Features",
+          "purpose": "To explain the features and capabilities of the product, helping users understand its value.",
+          "visual_hierarchy": "Headings and subheadings for each feature are clearly differentiated. Important features are highlighted with icons or images next to descriptions.",
+          "key_elements": [
+            "Feature headings",
+            "Descriptions",
+            "Icons or images"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Social Proof",
+          "purpose": "Builds credibility through testimonials, customer logos, and usage statistics.",
+          "visual_hierarchy": "Customer logos are prominent, followed by quotes from testimonials in larger text.",
+          "key_elements": [
+            "Customer logos",
+            "Testimonials",
+            "Statistical data"
+          ],
+          "image_urls": [
+            "https://exa.ai/images/testimonial/cursor_monochrome.svg",
+            "https://exa.ai/_next/image?url=%2Fimages%2Ftestimonial%2Fnotion.png&w=3840&q=75"
+          ]
+        },
+        {
+          "title": "Pricing",
+          "purpose": "To present pricing plans, making it easy for users to select the option that fits their needs.",
+          "visual_hierarchy": "Pricing tables are featured in a clear layout, with the most popular option highlighted.",
+          "key_elements": [
+            "Pricing tables",
+            "Call-to-action buttons"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Call to Action",
+          "purpose": "Encourages users to take final action like signing up or requesting a demo.",
+          "visual_hierarchy": "The most prominent button or link is highlighted with contrasting colors.",
+          "key_elements": [
+            "Call-to-action button",
+            "Text describing the action"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Footer",
+          "purpose": "Provides navigation links and company information.",
+          "visual_hierarchy": "Links are laid out in a clear and organized manner, with contact information and social media links.",
+          "key_elements": [
+            "Navigation links",
+            "Contact information",
+            "Social media links"
+          ],
+          "image_urls": []
+        }
+      ],
+      "section_count": 7,
+      "primary_message": "Exa provides a powerful search API that enables seamless data retrieval from various web sources, tailored for AI applications.",
+      "target_audience": "Developers, Product Managers, Enterprises looking for advanced data search solutions.",
+      "design_philosophy": "Minimalist, emphasizing clarity and functional design to enhance user experience."
+    },
+    "branding": {
+      "color_scheme": "light",
+      "primary_color": "#9CA3AF",
+      "secondary_color": "N/A",
+      "accent_color": "#374151",
+      "background_color": "#FFFFFF",
+      "all_colors": {
+        "primary": "#9CA3AF",
+        "accent": "#374151",
+        "background": "#FFFFFF",
+        "textPrimary": "#374151",
+        "link": "#374151"
+      },
+      "primary_font": "ABCDiatype",
+      "heading_font": "Arizona",
+      "code_font": "N/A",
+      "all_fonts": {
+        "primary": "ABCDiatype",
+        "heading": "Arizona"
+      },
+      "font_sizes": {
+        "h1": "57.6px",
+        "h2": "49.28px",
+        "body": "16px"
+      },
+      "font_weights": {},
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "6px"
+      },
+      "components": {
+        "input": {
+          "background": "transparent",
+          "textColor": "#000000",
+          "borderColor": null,
+          "borderRadius": "0px",
+          "borderRadiusCorners": {
+            "topLeft": "0px",
+            "topRight": "0px",
+            "bottomRight": "0px",
+            "bottomLeft": "0px"
+          },
+          "shadow": "none"
+        }
+      }
+    },
+    "total_images": 4,
+    "color_count": 5,
+    "font_count": 2
+  },
+  {
+    "url": "https://www.raindrop.ai/",
+    "success": true,
+    "time_seconds": 44.34,
+    "method": "firecrawl",
+    "analysis": {
+      "sections": [
+        {
+          "title": "Hero Section",
+          "purpose": "The Hero section conveys the primary value proposition of Raindrop, introducing the $15M seed funding and establishing trust with known backers.",
+          "visual_hierarchy": "The bold title catches immediate attention, followed by a brief line about backers in a slightly smaller font.",
+          "key_elements": [
+            "Bold title text",
+            "Subheader about backers",
+            "Call to action button"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Product Showcase",
+          "purpose": "Demonstrates the product's functionality, showcasing its features through concise text and images.",
+          "visual_hierarchy": "Highlighted features with icons and screenshots draw the eye first, followed by descriptions.",
+          "key_elements": [
+            "Screenshots",
+            "Feature descriptions",
+            "Call to action buttons"
+          ],
+          "image_urls": [
+            "https://www.raindrop.ai/assets/issue-hero.png",
+            "https://www.raindrop.ai/assets/search-hero.png",
+            "https://www.raindrop.ai/assets/track.png",
+            "https://www.raindrop.ai/assets/deep-search.gif",
+            "https://www.raindrop.ai/assets/experiments_main.png"
+          ]
+        },
+        {
+          "title": "Features",
+          "purpose": "Breakdown of the platform\u2019s capabilities that contribute to user needs and pain points.",
+          "visual_hierarchy": "Each feature is listed prominently with accompanying graphics indicating function, engaging the user.",
+          "key_elements": [
+            "Feature list",
+            "Icons",
+            "Brief explanations"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Social Proof",
+          "purpose": "Builds credibility through customer testimonials, statistics, and logos of trusted companies using the platform.",
+          "visual_hierarchy": "Customer logos are showcased prominently, followed by testimonials in quotation format.",
+          "key_elements": [
+            "Customer logos",
+            "Testimonial quotes",
+            "Case study links"
+          ],
+          "image_urls": [
+            "https://www.raindrop.ai/assets/replit.png",
+            "https://www.raindrop.ai/assets/speak.svg",
+            "https://www.raindrop.ai/assets/clay.png",
+            "https://www.raindrop.ai/assets/framer-lg.svg",
+            "https://www.raindrop.ai/assets/tolan.svg"
+          ]
+        },
+        {
+          "title": "Pricing",
+          "purpose": "Outlines the pricing structure, helping potential users understand costs and options before committing.",
+          "visual_hierarchy": "Pricing plans are organized in a table format with clear headings for each tier, making comparisons easy.",
+          "key_elements": [
+            "Pricing table",
+            "Subscription details",
+            "Call to action for inquiries"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Call to Action",
+          "purpose": "Encourages users to engage by providing actionable steps to begin using the platform.",
+          "visual_hierarchy": "Bold, colorful buttons are used to draw immediate attention, encouraging sign-ups.",
+          "key_elements": [
+            "Sign-up buttons",
+            "Link to getting started",
+            "Contact form"
+          ],
+          "image_urls": []
+        },
+        {
+          "title": "Footer",
+          "purpose": "Provides navigation links and information about the company, emphasizing trust and transparency.",
+          "visual_hierarchy": "Less prominent than other sections, serves as a reference point for additional information.",
+          "key_elements": [
+            "Links to policies",
+            "Contact information",
+            "Social media links"
+          ],
+          "image_urls": []
+        }
+      ],
+      "section_count": 7,
+      "primary_message": "Raindrop is a powerful monitoring tool for AI agents to detect issues and fine-tune performance.",
+      "target_audience": "Developers and product teams in AI startups and technology companies.",
+      "design_philosophy": "Clean and modern, with a focus on utility and clarity."
+    },
+    "branding": {
+      "color_scheme": "light",
+      "primary_color": "#082A3A",
+      "secondary_color": "N/A",
+      "accent_color": "#FEE2E2",
+      "background_color": "#F3F3F3",
+      "all_colors": {
+        "primary": "#082A3A",
+        "accent": "#FEE2E2",
+        "background": "#F3F3F3",
+        "textPrimary": "#000000",
+        "link": "#FEE2E2"
+      },
+      "primary_font": "Barlow",
+      "heading_font": "Barlow",
+      "code_font": "N/A",
+      "all_fonts": {
+        "primary": "Barlow",
+        "heading": "Barlow"
+      },
+      "font_sizes": {
+        "h1": "16px",
+        "h2": "36px",
+        "body": "16px"
+      },
+      "font_weights": {},
+      "spacing": {
+        "baseUnit": 4,
+        "borderRadius": "3px"
+      },
+      "components": {}
+    },
+    "total_images": 10,
+    "color_count": 5,
+    "font_count": 2
+  }
+]

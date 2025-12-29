@@ -52,7 +52,7 @@ def crawl_site(url, retries=3):
         job_id = res.json()["id"]
         break
     else:
-        print("❌ Failed after retries")
+        print(" Failed after retries")
         return []
 
     while True:
@@ -77,4 +77,4 @@ def crawl_site(url, retries=3):
 if __name__ == "__main__":
     for site in SITES:
         crawl_site(site)
-        time.sleep(4)  # <-- CRITICAL: prevent 429s
+        time.sleep(4) 
