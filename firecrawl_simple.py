@@ -11,7 +11,7 @@ URLS = [
 API_URL = "https://api.firecrawl.dev/v2/scrape"
 
 HEADERS = {
-    "Authorization": "Bearer fc-bd35616d895344df9b4494b78e1e2c8b",
+    "Authorization": "Bearer fc-<YOUR_API_KEY>",
     "Content-Type": "application/json"
 }
 
