@@ -10,4 +10,3 @@ for url in URLS:
 
     print("URL:", url)
     d = res["data"]; print("Title:", d["metadata"].get("title"), "| Links:", len(d["links"]), "| Markdown:", len(d["markdown"]), "| Screenshot:", "screenshot" in d)
-
